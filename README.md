@@ -2,15 +2,19 @@
 
 This repository contains an **experimental PyTorch implementation** of the **NoProp** algorithm, exploring its application in two distinct domains: image classification and time-series forecasting.
 
+
+
+**Supplementary Material:**
+
+> 📊 **[View Theoretical Foundations Slides](https://ivanbrillo.github.io/NoProp/)**:  A full deck of slides explaining the mathematical foundations and underlying diffusion mechanics, specifically the NoProp implementation, is hosted on my GitHub Pages.
+
+
 **Reference Paper:**
 
 > **NoProp: Training Neural Networks without Back-propagation or Forward-propagation**
 > *Qinyu Li, Yee Whye Teh, Razvan Pascanu (2025)*
 > [arXiv:2503.24322](https://arxiv.org/abs/2503.24322)
 
-**Supplementary Material:**
-
-> 📄 **LaTeX Slides:** Slides are available in this repository to assist in understanding the math-heavy aspects of the paper and the underlying diffusion mechanics.
 
 ---
 
